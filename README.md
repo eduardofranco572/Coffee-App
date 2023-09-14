@@ -1,9 +1,6 @@
 # Coffee-App
 
-# Streaming_Movie
 
-
-Olá, Meu nome é Eduardo e esse é o projeto de um web site sStreaming movie. No qual é consumido a API de filmes em React JS.
 <br>
 <br>
  <div align="center">
